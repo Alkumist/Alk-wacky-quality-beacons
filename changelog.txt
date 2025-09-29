@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2025-09-29
+  Info:
+    - Initial release
+  Features:
+    - added quality scailing to module slots, and beacon supply area
+  Changes:
+    - beacon supply area
+    - beacon supply effectivity
